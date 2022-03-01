@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At a court holden the 8th day of January, 1662. at the court house of the parish of St Clement Danes without Temple-Barr in the county of Middlesex, by the commissioners for charitable uses for the said county and city of Westminster.</title>
+            <author>England and Wales. Commissioners for Charitable Uses.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17274</idno>
+            <idno type="STC">Wing A4088B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[258]</idno>
+            <idno type="STC">ESTC R233140</idno>
+            <idno type="EEBO-CITATION">99889151</idno>
+            <idno type="PROQUEST">ocm99889151</idno>
+            <idno type="VID">194061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B17274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194061)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[259])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At a court holden the 8th day of January, 1662. at the court house of the parish of St Clement Danes without Temple-Barr in the county of Middlesex, by the commissioners for charitable uses for the said county and city of Westminster.</title>
+                  <author>England and Wales. Commissioners for Charitable Uses.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Royal arms at head of sheet; initial.</note>
+                  <note>Imperfect: tightly bound, resulting in loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  Early works to 1800.</term>
+               <term>Charity laws and legislation --  England --  Early works to 1800.</term>
+               <term>Public works --  Finance --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194061:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT.</p>
+               </figure> At a Court holden the 8<hi rend="sup">th</hi> day of <hi>January,</hi> 1662. at the Court Houſe of the Pariſh of S<hi rend="sup">t</hi> 
+               <hi>Clement Danes</hi> without <hi>Temple-Barr</hi> in the County of <hi>Middleſex,</hi> by the Commiſſioners for Charitable Uſes for the ſaid County and City of <hi>Weſtminster.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas there is a Commiſſion Directed to The Reverend Father in God, the Lord Biſhop of <hi>London,</hi> the Right Honourable <hi>William</hi> Lord <hi>Craven,</hi> Sir <hi>William Wilde</hi> Sir <hi>Henage Finch,</hi> Sir <hi>Thomas Adams,</hi> Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Brown,</hi> Sir <hi>John Robinſon,</hi> Sir <hi>James Bunce,</hi> Knights and Baronets, Sir <hi>Reginald Forſter</hi> Baronet, Sir <hi>John Bramſton</hi> Knight of the Bathe, Sir <hi>Edward Turner,</hi> Sir <hi>Thomas Allen,</hi> Sir <hi>William Bateman,</hi> Sir <hi>Lancelot Lake,</hi> Sir <hi>Thomas Bird,</hi> Sir <hi>Thomas Ingram,</hi> Sir <hi>George Symon,</hi> Sir <hi>Thomas Player,</hi> Sir <hi>John Babor,</hi> Knights; The Chancellor to the ſaid Biſhop for the time being; <hi>Cheyney Roe, Thomas Smith, John Stent, Richard Proctor, Nathaniel Snape, Ralph Hawtrey, John Hawtrey, George Day, Chriſtopher Abdey, Joſeph Aloff, Simon Roleſtone, Thomas Lucie, Robert Harleſton, George Charnocke, Charles Pitfeild, Thomas Stringer, Richard Abel, Thomas Warner, Edward Dedſon, John Robinſon, Edward Hore, Richard Sidenham,</hi> Eſquires; <hi>William Goodman, Obadiah Haywerton, Samuel Eames, Thomas Fowell, Walter Lapp, Robert Stanhope, Thomas Ewen, Joſeph Surbutt, Thomas Martin, William Rudd, William Sanckey, William Burrows, Richard Mills, William Cotton,</hi> and <hi>Peter Mills,</hi> Gentlemen; Commiſſioners authorized by the Kings moſt Excellent Majeſty, under the Great Seal of <hi>England,</hi> According to the Statute of the 43. of <hi>Eliz.</hi> for the Inquiry and Finding out of all Lands, Goods, and Stocks of money heretofore given to Charitable Vſes. And having ſpecial truſt and confidence in their fidelities; Have authorized and appointed them Commiſſioners and doth give unto them, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny four or more of them, full power and authority to enquire by all lawfull ways and means, according to the purport <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd true meaning of the ſaid Statute, What Lands, Tenements, Rents, Annuities, Profits, Hereditaments, Goods, Chattels, Money, or Stocks of Money, have at any time heretofore been given by any King, or Queen of <hi>England,</hi> or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny other well diſpoſed perſon, or perſons, for relief of aged, impotent, or poor People, maintenance of ſick and maimed Souldiers, or Mariners, Schools of Learning, Free-Schools, or Scholars in Vniverſities, repair of Bridges, Havens, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awſwayes, Churches, Sea-banks, or High-wayes, education or preferment of Orphans, relief, ſtock, or maintenance, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Houſes of Correction, marriages of poor Maids, ſupportation of Tradeſmen, or Perſons decayed, redemption of Pri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oners, or Captives, ſetting out of Souldiers, <hi>&amp;c.</hi> within the ſaid County and City; And of all abuſes, breaches of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruſt, miſimployment, or miſgovernment of the ſame Lands, <hi>&amp;c.</hi> heretofore given to, or for, any of the Charitable and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odly Vſes before rehearſed</p>
+            <p>It is this day declared by the ſaid Commiſſioners, That it ſhall be taken as a good and acceptable ſervice of any per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n or perſons within the County and City aforeſaid, and in the ſeveral Pariſhes thereof, to acquaint the ſaid Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſſioners, of all ſuch Sums of Money given for the relief of the Poor, and all other the Charitable and Godly Vſes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bove-mentioned; And if any perſon, or perſons, can inform the ſaid Commiſſioners of any the aforeſaid Abuſes, let <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em repair to the Houſe of <hi>John Bennet</hi> Gent. at the <hi>Starr-Inn</hi> in <hi>Newington-Butts</hi> neer <hi>Southwark,</hi> or to the houſe of <hi>John <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell</hi> Gent. Clerk of <hi>Clarks-hall</hi> neer the <hi>Three-Cranes</hi> in the <hi>Vintrey</hi> in <hi>Thameſtreet, London,</hi> any Fryday between the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ours of Ten and Two, who will receive all your Preſentments, and perfect them accordingly: upon which Preſent<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ents, care will be taken, that the Moneys ſhall be made good, with ſufficient damages for the uſe and benefit of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor, That the Donors Will ſhall be in all things performed, according to the true intent and meaning thereof.</p>
+            <p>And it is further deſired, by the ſaid Commiſſioners, That all Miniſters in their Churches and Chappels within <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſaid County and City, for the furthering of ſo good a work, read this Order the next Lords-day after the receipt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof in their ſeveral Congregations, and that it be fixed upon the Church-Doors in the ſaid Pariſhes, That all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons may take notice hereof.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
